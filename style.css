@@ -21,12 +21,7 @@ img{
     width: 100%;
     border-radius: 20px;
 }
-.avatar{
-    max-width: 40px;
-    margin-top: 5px;
-    border: 2px solid white;
-    margin-right: 22px;
-}
+
 h1{
     color: #FAFFFF;
     font-family: cursive;
@@ -47,6 +42,12 @@ h1{
 #create{
 font-family: cursive;
 color: #7588A6;
-margin-top: 1px;
-
+margin-left: 50px;
+transform: translateY(15px)
+}
+[ss]{
+    max-width: 40px;
+    position: absolute;
+    bottom: 30px;
+    border: 2px solid white;
 }
